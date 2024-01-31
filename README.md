@@ -6,11 +6,15 @@ En esta oportunidad ha llegado el momento de integrar una hoja de estilo a un ar
 
 Crear un curriculum en html dando estilo con css.
 
+## Archivo desplegado
+
+![Image](./image.jpg/1er-curriculum-html-css.JPG)
 
 
-![Image](./image.jpg/rodcode.JPG)
 
 cada proyecto es una oportunidad de aprender y mejorar, ahora toca llevar este cv al siguiente nivel.
+
+![Image](./image.jpg/rodcode.JPG)
 
 ## Autor
 
